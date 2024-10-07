@@ -56,9 +56,3 @@ This repository contains Infrastructure as Code (IaC) for automating the provisi
 - Make sure to securely handle sensitive credentials using environment variables or Terraform's `terraform.tfvars` file.
 - Use `terraform destroy` to remove resources when they are no longer needed.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the content based on the specifics of your project!
